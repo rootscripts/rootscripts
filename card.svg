@@ -22,7 +22,7 @@
   <g transform="translate(40, 40)">
     <g clip-path="url(#m3-clover)">
       <rect width="160" height="160" fill="#211f26"/>
-      <image x="14" y="14" width="132" height="132" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,ВСТАВЬ_СЮДА_BASE64_ИЗ_AVATAR_TXT"/>
+      <image x="14" y="14" width="132" height="132" preserveAspectRatio="xMidYMid slice" href="avatar.png"/>
     </g>
   </g>
 
