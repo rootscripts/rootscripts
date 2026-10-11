@@ -1,5 +1,5 @@
 <div align="center">
   <a href="https://t.me/puddingthe">
-    <img src="card.png" alt="rootless" width="840"/>
+    <img src="Frame 43 (1).png" alt="rootless" width="840"/>
   </a>
 </div>
