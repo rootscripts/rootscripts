@@ -12,8 +12,6 @@
 
 <a href="https://github.com/rootscripts/riff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-riff-dark.svg"><img src="assets/project-riff-light.svg" width="49%" alt="riff"></picture></a>&nbsp;<a href="https://github.com/rootscripts/hyprkey"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyprkey-dark.svg"><img src="assets/project-hyprkey-light.svg" width="49%" alt="hyprkey"></picture></a>
 
-<a href="https://github.com/rootscripts/ZAE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zae-dark.svg"><img src="assets/project-zae-light.svg" width="49%" alt="ZAE"></picture></a>&nbsp;<a href="https://github.com/rootscripts/download"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-download-dark.svg"><img src="assets/project-download-light.svg" width="49%" alt="download"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
