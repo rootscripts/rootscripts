@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "login": "rootscripts",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "i am",
+    "name": "rootless",
+    "subtitle": "I built Riff, the best open-source music player, i also often do small projects for my life.",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Ukraine, Odessa"
+      },
+      {
+        "icon": "code",
+        "label": "CSS, HTML, JS, node.js, Shell, Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "I am",
+    "items": [
+      {
+        "icon": "person",
+        "label": "UI designer in Figma"
+      },
+      {
+        "icon": "code",
+        "label": "Fullstack-developer"
+      },
+      {
+        "icon": "palette",
+        "label": "Into MD3"
+      },
+      {
+        "icon": "favorite",
+        "label": "Open-source lover"
+      },
+      {
+        "icon": "brand:cachyos",
+        "label": "CachyOS user"
+      },
+      {
+        "icon": "exclamation",
+        "label": "Hater of big corporations that makes you pay and have ads"
+      },
+      {
+        "icon": "music_note",
+        "label": "Musicaholic"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JS"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "Frontend"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:gnometerminal",
+            "label": "Shell"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:telegram",
+            "label": "Telegram"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub",
+    "stars": "Stars",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/@puddingthe"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/rootdump"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/rootscripts"
+      },
+      {
+        "icon": "web_traffic",
+        "url": "https://rootless.shit.vc"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://rootless.shit.vc",
+        "style": "filled"
+      }
+    ]
+  }
+}
