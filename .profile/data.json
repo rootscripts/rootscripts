@@ -1,0 +1,236 @@
+{
+ "key": "32ccbfb",
+ "stars": 135,
+ "contributions": 259,
+ "repos": 8,
+ "followers": 17,
+ "languages": [
+  [
+   "JavaScript",
+   919340
+  ],
+  [
+   "HTML",
+   546850
+  ],
+  [
+   "CSS",
+   212098
+  ],
+  [
+   "Python",
+   58071
+  ],
+  [
+   "Nix",
+   2782
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 12,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 21,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 14,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "riff",
+   "url": "https://github.com/rootscripts/riff",
+   "text": "Your desktop music player.",
+   "fork": false,
+   "stars": 132,
+   "language": "JavaScript",
+   "topics": [
+    "audio",
+    "music",
+    "music-player",
+    "song",
+    "songs"
+   ]
+  },
+  {
+   "name": "hyprkey",
+   "url": "https://github.com/rootscripts/hyprkey",
+   "text": "Hyprkey - Bring satisfying mechanical clicks to your workflow",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "riff",
+   "url": "https://github.com/rootscripts/riff",
+   "text": "Your desktop music player.",
+   "fork": false,
+   "stars": 132,
+   "language": "JavaScript",
+   "topics": [
+    "audio",
+    "music",
+    "music-player",
+    "song",
+    "songs"
+   ]
+  },
+  {
+   "name": "hyprkey",
+   "url": "https://github.com/rootscripts/hyprkey",
+   "text": "Hyprkey - Bring satisfying mechanical clicks to your workflow",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "ZAE",
+   "url": "https://github.com/rootscripts/ZAE",
+   "text": "Virtual machine that runs any OS in the world with no .iso",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "download",
+   "url": "https://github.com/rootscripts/download",
+   "text": "Riff Downloader",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "riffmusic",
+   "url": "https://github.com/rootscripts/riffmusic",
+   "text": "Riff Website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "fork",
+   "url": "https://github.com/rootscripts/fork",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "rootscripts",
+   "url": "https://github.com/rootscripts/rootscripts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "rootscripts.github.io",
+   "url": "https://github.com/rootscripts/rootscripts.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
