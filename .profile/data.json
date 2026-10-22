@@ -1,6 +1,6 @@
 {
- "key": "ec3bcc85",
- "stars": 191,
+ "key": "5eb6b762",
+ "stars": 198,
  "contributions": 287,
  "repos": 8,
  "followers": 23,
@@ -24,10 +24,6 @@
   [
    "Nix",
    2782
-  ],
-  [
-   "Perl",
-   1
   ]
  ],
  "days": [
@@ -145,7 +141,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your desktop music player.",
    "fork": false,
-   "stars": 188,
+   "stars": 195,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -171,7 +167,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your desktop music player.",
    "fork": false,
-   "stars": 188,
+   "stars": 195,
    "language": "JavaScript",
    "topics": [
     "audio",
