@@ -1,9 +1,9 @@
 {
- "key": "b29525db",
- "stars": 364,
+ "key": "48658af1",
+ "stars": 379,
  "contributions": 318,
  "repos": 9,
- "followers": 33,
+ "followers": 34,
  "languages": [
   [
    "JavaScript",
@@ -27,43 +27,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 12,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 7,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 8,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 9,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 10,
-    "today": false
-   }
-  ],
   [
    {
     "c": 21,
@@ -135,8 +98,21 @@
    {
     "c": 5,
     "day": 24,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -149,7 +125,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your best desktop music player.",
    "fork": false,
-   "stars": 361,
+   "stars": 376,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -177,7 +153,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your best desktop music player.",
    "fork": false,
-   "stars": 361,
+   "stars": 376,
    "language": "JavaScript",
    "topics": [
     "audio",
