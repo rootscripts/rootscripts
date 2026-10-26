@@ -1,17 +1,17 @@
 {
- "key": "722fec88",
- "stars": 493,
- "contributions": 330,
+ "key": "79b98558",
+ "stars": 506,
+ "contributions": 329,
  "repos": 9,
  "followers": 41,
  "languages": [
   [
    "JavaScript",
-   1329480
+   1331539
   ],
   [
    "HTML",
-   615659
+   615763
   ],
   [
    "CSS",
@@ -105,9 +105,13 @@
    {
     "c": 9,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -125,7 +129,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your best desktop music player.",
    "fork": false,
-   "stars": 490,
+   "stars": 503,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -153,7 +157,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your best desktop music player.",
    "fork": false,
-   "stars": 490,
+   "stars": 503,
    "language": "JavaScript",
    "topics": [
     "audio",
