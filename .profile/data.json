@@ -1,21 +1,21 @@
 {
- "key": "20266b11",
- "stars": 568,
+ "key": "487a2adc",
+ "stars": 583,
  "contributions": 329,
  "repos": 9,
  "followers": 46,
  "languages": [
   [
    "JavaScript",
-   1363602
+   1367048
   ],
   [
    "HTML",
-   617663
+   617723
   ],
   [
    "CSS",
-   278736
+   279058
   ],
   [
    "Python",
@@ -133,7 +133,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your best desktop music player.",
    "fork": false,
-   "stars": 565,
+   "stars": 579,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -161,7 +161,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Your best desktop music player.",
    "fork": false,
-   "stars": 565,
+   "stars": 579,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -183,21 +183,21 @@
    "topics": []
   },
   {
+   "name": "riffm",
+   "url": "https://github.com/rootscripts/riffm",
+   "text": "Riff Website",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
    "name": "ZAE",
    "url": "https://github.com/rootscripts/ZAE",
    "text": "Virtual machine that runs any OS in the world with no .iso",
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "riffm",
-   "url": "https://github.com/rootscripts/riffm",
-   "text": "Riff Website",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
    "topics": []
   },
   {
