@@ -1,9 +1,9 @@
 {
- "key": "e5a55e50",
- "stars": 855,
+ "key": "e962ca8f",
+ "stars": 857,
  "contributions": 345,
  "repos": 9,
- "followers": 70,
+ "followers": 71,
  "languages": [
   [
    "JavaScript",
@@ -27,43 +27,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 14,
-    "day": 18,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 19,
-    "today": false
-   },
-   {
-    "c": 12,
-    "day": 20,
-    "today": false
-   },
-   {
-    "c": 8,
-    "day": 21,
-    "today": false
-   },
-   {
-    "c": 8,
-    "day": 22,
-    "today": false
-   },
-   {
-    "c": 30,
-    "day": 23,
-    "today": false
-   },
-   {
-    "c": 5,
-    "day": 24,
-    "today": false
-   }
-  ],
   [
    {
     "c": 9,
@@ -135,12 +98,25 @@
    {
     "c": 0,
     "day": 7,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 8
  },
  "pins": [
@@ -149,7 +125,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Riff is the best music player with YouTube Music & SoundCloud library and WebGL shader visuals.",
    "fork": false,
-   "stars": 851,
+   "stars": 853,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -177,7 +153,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Riff is the best music player with YouTube Music & SoundCloud library and WebGL shader visuals.",
    "fork": false,
-   "stars": 851,
+   "stars": 853,
    "language": "JavaScript",
    "topics": [
     "audio",
