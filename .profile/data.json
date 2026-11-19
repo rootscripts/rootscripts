@@ -1,5 +1,5 @@
 {
- "key": "acac1832",
+ "key": "3e50915a",
  "stars": 947,
  "contributions": 481,
  "repos": 9,
@@ -120,15 +120,19 @@
    {
     "c": 0,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 7,
+  "current": 0,
   "longest": 8
  },
  "pins": [
