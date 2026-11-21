@@ -1,6 +1,6 @@
 {
- "key": "7efadbd4",
- "stars": 958,
+ "key": "525f5df1",
+ "stars": 959,
  "contributions": 486,
  "repos": 10,
  "followers": 75,
@@ -149,7 +149,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Riff is the best, free music player with YouTube Music & SoundCloud library and WebGL shader visuals. No backend or telemetry. No paid tiers.",
    "fork": false,
-   "stars": 954,
+   "stars": 955,
    "language": "JavaScript",
    "topics": [
     "audio",
@@ -177,7 +177,7 @@
    "url": "https://github.com/rootscripts/riff",
    "text": "Riff is the best, free music player with YouTube Music & SoundCloud library and WebGL shader visuals. No backend or telemetry. No paid tiers.",
    "fork": false,
-   "stars": 954,
+   "stars": 955,
    "language": "JavaScript",
    "topics": [
     "audio",
